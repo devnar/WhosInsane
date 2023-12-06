@@ -20,7 +20,7 @@ const commands = [
          Bot Commands
         </p>
         <p className="text-white text-sm text-opacity-50 mb-5">
-        You can get information about the commands of the WhoInsane Bot.
+        You can get information about the commands of the Who Insane Bot.
         </p>
 
         <div>
@@ -69,7 +69,7 @@ const commands = [
   
   <Link href={"https://discord.com/oauth2/authorize?client_id=1155936471505707069&scope=bot"}>
   <a className={"flex items-center px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " }>
-Invite WhoInsane</a>
+Invite Who Insane</a>
   </Link>
 
   <div className="py-10"></div>
@@ -83,7 +83,7 @@ Support Server</a>
   
   <Link href={"https://top.gg/bot/1155936471505707069/vote"}>
   <a className={" px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " }>
-Vote WhoInsane</a>
+Vote Who Insane</a>
   </Link>
 </div>
 

@@ -14,11 +14,11 @@ class MyDocument extends Document {
             content="How about listening to music without pausing? Create your own playlists with 750+ supported sound platforms and start listening."
           />
           <meta name="twitter:card" content="summary" />
-          <meta name="twitter:site" content="@WhoInsane" />
-          <meta name="twitter:creator" content="@WhoInsane" />
+          <meta name="twitter:site" content="@Who Insane" />
+          <meta name="twitter:creator" content="@Who Insane" />
           <meta property="og:url" content="https://whoinsane.vercel.app" />
           <meta property="og:type" content="website" />
-          <meta property="og:title" content="WhoInsane" />
+          <meta property="og:title" content="Who Insane" />
           <link
             rel="icon"
             href="/img/logo2.png"
@@ -29,11 +29,11 @@ class MyDocument extends Document {
             content="How about listening to music without pausing? Create your own playlists with 750+ supported sound platforms and start listening."
           />
           <meta property="og:image" content="/img/logo.jpg" />
-          <meta property="og:image:alt" content="WhoInsane" />
+          <meta property="og:image:alt" content="Who Insane" />
           <meta property="og:locale" content="en_GB" />
           <meta
             property="og:site_name"
-            content="WhoInsane"
+            content="Who Insane"
           />
           <meta name="theme-color" content="#087ddd" />
           <link rel="icon" href="/img/logo.jpg" type="image/x-icon" />

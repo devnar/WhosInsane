@@ -8,7 +8,7 @@ const ErrorPage = ({ code, message }) => {
     
     return <>
         <Head>
-            <title>{code} | WhoInsane</title>
+            <title>{code} | Who Insane</title>
         </Head>
 
         <div className="max-w-7xl text-center py-20 mx-auto">
