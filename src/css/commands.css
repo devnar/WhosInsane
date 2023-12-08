@@ -410,7 +410,6 @@ ul {
 
     nav .openMenu {
         font-size: 25px;
-        display: none;
         cursor: pointer;
         color: #eee;
     }
@@ -418,7 +417,6 @@ ul {
     nav .mainMenu .closeMenu,
     .icons i {
         font-size: 2rem;
-        display: none;
         cursor: pointer;
         color: #eee;
     }
