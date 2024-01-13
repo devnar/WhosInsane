@@ -36,6 +36,10 @@
     "fuel pump"
   ],
   "10": [
+    "bus",
+    "minibus"
+  ],
+  "11": [
     "water",
     "vinegar"
   ]
